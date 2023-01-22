@@ -22,5 +22,6 @@ We will be doing topic modelling on the json data provided by the company. Since
 </ul>
 With the help of topic modelling, we will be able to map each ticket onto its respective department/category. We can then use this data to train any supervised model such as logistic regression, decision tree or random forest. Using this trained model, we can classify any new customer complaint support ticket into its relevant department.
 
-### Demonstration Code: https://github.com/mrm1404/Automatic-Ticket-Classification-Using-NLP/blob/main/Automatic_Ticket_Classification_Assignment.ipynb
+### Demonstration: 
+https://github.com/mrm1404/Automatic-Ticket-Classification-Using-NLP/blob/main/Automatic_Ticket_Classification_Assignment.ipynb
 
